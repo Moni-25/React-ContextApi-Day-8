@@ -1,0 +1,31 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "img" : "https://m.media-amazon.com/images/I/414+xRBltFL._AC_SR320,320_.jpg",
+            "name" : "OnePlus 11 5G (Eternal Green, 8GB RAM, 128GB Storage)",
+            "normalCost" : 28080,
+            "actualCost" : 20000,
+            "categoty" : "Android",
+            "ratings" : 4
+        },
+        {
+            "id" : 2,
+            "img" : "https://m.media-amazon.com/images/I/41xssMLI2DL._AC_SR320,320_.jpg",
+            "name" : "Apple iPhone 12 (256GB) - Blue",
+            "normalCost" : 68000,
+            "actualCost" : 58000,
+            "categoty" : "iPhone", 
+            "ratings" : 5
+        },
+        {
+            "id" : 3,
+            "img" : "https://m.media-amazon.com/images/I/41Hb2KwX6vL._AC_SR320,320_.jpg",
+            "name" : "Samsung Galaxy M14 5G (ICY Silver,4GB,128GB)|50MP Triple Cam",
+            "normalCost" : 12539,
+            "actualCost" : 10897,
+            "categoty" : "Samsung Android",
+            "ratings" : 4
+        }
+    ]
+}
